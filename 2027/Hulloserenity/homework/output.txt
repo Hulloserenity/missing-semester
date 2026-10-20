@@ -1,0 +1,13 @@
+运行脚本时的系统时间： 2026.10.20 21:21:25
+最近10条命令：
+cd ..
+mkdir homework
+cd homework/
+touch output.txt
+touch work.sh
+ls
+cd ..
+vim note1.md
+mkdir Hulloserenity
+sudo reboot
+笔记字数： 2717
